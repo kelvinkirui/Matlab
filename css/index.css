@@ -1,0 +1,12 @@
+body{
+    background-color: #faf2e4;
+    margin: 0 10%;
+}
+h2{
+    color: #ff9100;
+    font-size: 1em;
+}
+h1{
+    text-align: center;
+     border-bottom: 1px solid #57b1dc;
+}
